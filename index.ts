@@ -65,5 +65,6 @@ function testClaseEdificio() {
 
 function main() {
   testClaseEdificio();
+  console.log("cambio en archivo desde github")
 }
 main();
